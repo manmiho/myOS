@@ -6,6 +6,8 @@
 //  Copyright 2011 RSU. All rights reserved.
 //
 
+// AAA
+
 #import <UIKit/UIKit.h>
 
 @interface myOSAppDelegate : NSObject <UIApplicationDelegate> {
